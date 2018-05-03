@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".User">
 
+    <TextView
+        android:id="@+id/welcom_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/欢迎词"
+        tools:layout_editor_absoluteX="163dp"
+        tools:layout_editor_absoluteY="169dp" />
 </android.support.constraint.ConstraintLayout>
